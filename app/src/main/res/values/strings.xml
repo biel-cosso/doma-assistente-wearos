@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doma Assistente</string>
+    <string name="btn_voz">🎤 Falar comando</string>
+    <string name="voz_pergunta">Diga um comando</string>
+    <string name="escolha_comando">Escolha um comando</string>
+</resources>

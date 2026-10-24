@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fundo preto: padrão do Wear OS e economiza bateria em telas OLED -->
+    <color name="fundo">#FF000000</color>
+    <color name="texto">#FFFFFFFF</color>
+    <color name="texto_secundario">#FFBDBDBD</color>
+    <color name="texto_alerta">#FFFFB74D</color>
+    <color name="divisor">#FF333333</color>
+    <color name="destaque">#FF8AB4F8</color>
+    <color name="texto_botao">#FF000000</color>
+</resources>

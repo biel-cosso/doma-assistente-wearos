@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margens maiores porque a tela do relógio é redonda e corta os cantos -->
+    <dimen name="margem_lateral">22dp</dimen>
+    <dimen name="margem_topo">18dp</dimen>
+    <dimen name="margem_base">12dp</dimen>
+</resources>
