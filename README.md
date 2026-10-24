@@ -14,7 +14,33 @@ O que o app faz:
 - mostra se o relógio tem alto-falante ou fone Bluetooth e avisa quando o fone conecta ou desconecta;
 - se não tiver saída de som, oferece abrir a tela de Bluetooth em vez de dar erro.
 
-A documentação com os prints está em [docs/Documentacao-DGT2816.pdf](docs/Documentacao-DGT2816.pdf).
+A documentação completa está em [docs/Documentacao-DGT2816.pdf](docs/Documentacao-DGT2816.pdf).
+
+## Prints
+
+App rodando no emulador Wear OS Small Round:
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/prints/01-tela-inicial.png" width="190"><br>Tela inicial</td>
+    <td align="center"><img src="docs/prints/02-lista-rolada.png" width="190"><br>Lista de avisos</td>
+    <td align="center"><img src="docs/prints/03-reconhecimento-voz.png" width="190"><br>Comando de voz</td>
+    <td align="center"><img src="docs/prints/04-lista-comandos.png" width="190"><br>Lista de comandos</td>
+  </tr>
+</table>
+
+Android Studio:
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/prints/05-android-studio-codigo.png" width="400"><br>MainActivity.kt</td>
+    <td align="center"><img src="docs/prints/06-android-studio-manifest.png" width="400"><br>AndroidManifest.xml</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/prints/07-android-studio-layout.png" width="400"><br>Layout (ListView + Button)</td>
+    <td align="center"><img src="docs/prints/08-android-studio-emulador.png" width="400"><br>App no emulador</td>
+  </tr>
+</table>
 
 ## Onde está cada parte do roteiro
 
